@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "169049403272",
+    "firebase_url": "https://bgmi-4e045-default-rtdb.firebaseio.com",
+    "project_id": "bgmi-4e045",
+    "storage_bucket": "bgmi-4e045.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169049403272:android:65a6d5311fe1a2d505143d",
+        "android_client_info": {
+          "package_name": "com.krish.bgmiadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169049403272-r26aqcr400stc1slg6ko5eh0r8ose88n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0wDSomF97ZzJfCn0iV2bcvymFkv9EP1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169049403272-r26aqcr400stc1slg6ko5eh0r8ose88n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169049403272:android:0b3f840d3746049705143d",
+        "android_client_info": {
+          "package_name": "com.krish.bgmitournament"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169049403272-r26aqcr400stc1slg6ko5eh0r8ose88n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0wDSomF97ZzJfCn0iV2bcvymFkv9EP1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169049403272-r26aqcr400stc1slg6ko5eh0r8ose88n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
